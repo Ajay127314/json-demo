@@ -1,0 +1,18 @@
+
+{  
+    "product":[
+    {
+        "$schema":".product.schema.json",
+        "id":2,
+        "name":"An ice sculpture",
+        "price":12.50
+    },
+    {
+        "$schema":".product.schema.json",
+        "id":3,
+        "name":"A blue mouse",
+        "price":2.50
+    }
+
+]
+}
